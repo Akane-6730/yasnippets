@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <prf (Proof)
+# key: <prf
+# group: structure
+# --
+#+begin_proof
+$0
+#+end_proof

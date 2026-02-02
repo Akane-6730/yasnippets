@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <thm (Theorem)
+# key: <thm
+# group: structure
+# --
+#+begin_theorem ${1:Title}
+$0
+#+end_theorem

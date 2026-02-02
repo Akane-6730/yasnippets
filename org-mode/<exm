@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <exm (Example)
+# key: <exm
+# group: structure
+# --
+#+begin_exmp ${1:Title}
+$0
+#+end_exmp

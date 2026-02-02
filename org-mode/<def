@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <def (Definition)
+# key: <def
+# group: structure
+# --
+#+begin_definition ${1:Title}
+$0
+#+end_definition

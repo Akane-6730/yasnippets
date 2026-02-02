@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <l (LaTeX Block)
+# key: <l
+# group: structure
+# --
+#+BEGIN_EXPORT latex
+$0
+#+END_EXPORT

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <s (Source Block)
+# key: <s
+# group: structure
+# --
+#+BEGIN_SRC ${1:$$(yas-choose-value '("python" "emacs-lisp" "sh" "C" "C++" "latex" "java" "js" "ruby" "scheme" "org"))}
+$0
+#+END_SRC
