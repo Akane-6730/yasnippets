@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: mv
+# key: mv
+# --
+mv ${1:rd}, ${2:rs}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: jal
+# key: jal
+# --
+jal ${1:rd}, ${2:label}

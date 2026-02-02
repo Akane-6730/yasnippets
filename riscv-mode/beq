@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: beq
+# key: beq
+# --
+beq ${1:rs1}, ${2:rs2}, ${3:label}

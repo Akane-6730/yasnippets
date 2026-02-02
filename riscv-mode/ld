@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ld
+# key: ld
+# --
+ld ${1:rd}, ${2:offset}(${3:rs1})

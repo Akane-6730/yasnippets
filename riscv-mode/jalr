@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: jalr
+# key: jalr
+# --
+jalr ${1:rd}, ${2:offset}(${3:rs1})

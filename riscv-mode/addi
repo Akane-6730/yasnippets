@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: addi
+# key: addi
+# --
+addi ${1:rd}, ${2:rs1}, ${3:imm}

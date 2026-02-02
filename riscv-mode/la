@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: la
+# key: la
+# --
+la ${1:rd}, ${2:symbol}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: .globl
+# key: globl
+# --
+.globl ${1:symbol}
