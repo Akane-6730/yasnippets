@@ -1,6 +1,6 @@
 # key: basict
 # group: skeleton
-# name: \documentclass{article} ...
+# name: Basic Article Template
 # --
 \documentclass[11pt]{article}
 
